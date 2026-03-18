@@ -83,4 +83,11 @@ The dataset contains customer-related features:
 
 ---
 
-## 🚀 Project Structure
+
+---
+
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+jupyter notebook
